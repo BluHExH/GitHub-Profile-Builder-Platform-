@@ -1,11 +1,4 @@
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-    <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%" alt="HEX Forge Banner"/>
-  </picture>
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/Version-1.0.0-FF5A00?style=for-the-badge&logo=github&logoColor=white" alt="Version"/>
   <img src="https://img.shields.io/badge/License-MIT-00D9FF?style=for-the-badge&logo=opensourceinitiative&logoColor=white" alt="License"/>
   <img src="https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React 19"/>
