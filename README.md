@@ -366,7 +366,7 @@ Create, edit, and delete a reusable team roster. Each member stores name, role, 
   <tr>
     <td align="center" width="50%">
       <b>🏠 Landing Page</b><br/>
-      <img src="https://github.com/BluHExH/GitHub-Profile-Builder-Platform-/blob/main/Screenshot%202026-07-14%20172422.png" width="100%" alt="Landing Page"/>
+      <img src="https://i.postimg.cc/gjXXFgyH/Screenshot-2026-07-14-172422.png" width="100%" alt="Landing Page"/>
       <br/><sub>Hero section, features showcase, how it works, testimonials, FAQ, CTA</sub>
     </td>
     <td align="center" width="50%">
@@ -377,32 +377,15 @@ Create, edit, and delete a reusable team roster. Each member stores name, role, 
   </tr>
     <td align="center" width="50%">
       <b>🛡️ Badge Studio</b><br/>
-      <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="100%" alt="Badge Studio"/>
+      <img src="https://i.postimg.cc/SR22FgLB/Screenshot-2026-07-14-172517.png" width="100%" alt="Badge Studio"/>
       <br/><sub>500+ badges, search, filter, batch selection, live preview, trending packs</sub>
     </td>
   </tr>
   <tr>
     <td align="center" width="50%">
-      <b>💼 Portfolio Builder</b><br/>
-      <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="100%" alt="Portfolio Builder"/>
-      <br/><sub>4 themes, form inputs, portfolio score, AI tips, export options</sub>
-    </td>
-    <td align="center" width="50%">
-      <b>🔍 Repository Analyzer</b><br/>
-      <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" alt="Repository Analyzer"/>
-      <br/><sub>Health scores dimension cards, AI analysis, score rings</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
       <b>📝 Markdown Editor</b><br/>
-      <img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="100%" alt="Markdown Editor"/>
+      <img src="https://i.postimg.cc/D0JJkxQp/Screenshot-2026-07-14-172449.png" width="100%" alt="Markdown Editor"/>
       <br/><sub>Split-screen editor, formatting toolbar, live preview, fullscreen mode</sub>
-    </td>
-    <td align="center" width="50%">
-      <b>⚙️ Settings</b><br/>
-      <img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" width="100%" alt="Settings"/>
-      <br/><sub>Profile editing, appearance, account management, usage statistics</sub>
     </td>
   </tr>
 </table>
