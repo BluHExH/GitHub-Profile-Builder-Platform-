@@ -371,16 +371,10 @@ Create, edit, and delete a reusable team roster. Each member stores name, role, 
     </td>
     <td align="center" width="50%">
       <b>📊 Dashboard</b><br/>
-      <img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="100%" alt="Dashboard"/>
+      <img src="https://i.postimg.cc/1Xnnhvch/Screenshot-2026-07-14-172545.png" width="100%" alt="Dashboard"/>
       <br/><sub>Stats cards, activity chart, quick actions, recent projects, AI tools grid</sub>
     </td>
   </tr>
-  <tr>
-    <td align="center" width="50%">
-      <b>🤖 AI README Generator</b><br/>
-      <img src="https://user-images.githubusercontent.com/74038190/216644507-4f06ea29-bf55-4356-aac0-d42751461a9d.gif" width="100%" alt="README Generator"/>
-      <br/><sub>Form inputs, live streaming output, Markdown preview, export actions</sub>
-    </td>
     <td align="center" width="50%">
       <b>🛡️ Badge Studio</b><br/>
       <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="100%" alt="Badge Studio"/>
