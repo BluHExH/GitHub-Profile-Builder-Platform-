@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="assets/banner.svg" alt="HEX Forge — GitHub Profile Builder" width="100%">
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Version-1.0.0-FF5A00?style=for-the-badge&logo=github&logoColor=white" alt="Version"/>
   <img src="https://img.shields.io/badge/License-MIT-00D9FF?style=for-the-badge&logo=opensourceinitiative&logoColor=white" alt="License"/>
   <img src="https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React 19"/>
@@ -368,13 +372,12 @@ Create, edit, and delete a reusable team roster. Each member stores name, role, 
       <br/><sub>Stats cards, activity chart, quick actions, recent projects, AI tools grid</sub>
     </td>
   </tr>
+  <tr>
     <td align="center" width="50%">
       <b>🛡️ Badge Studio</b><br/>
       <img src="https://i.postimg.cc/SR22FgLB/Screenshot-2026-07-14-172517.png" width="100%" alt="Badge Studio"/>
       <br/><sub>500+ badges, search, filter, batch selection, live preview, trending packs</sub>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="50%">
       <b>📝 Markdown Editor</b><br/>
       <img src="https://i.postimg.cc/D0JJkxQp/Screenshot-2026-07-14-172449.png" width="100%" alt="Markdown Editor"/>
@@ -393,10 +396,10 @@ Create, edit, and delete a reusable team roster. Each member stores name, role, 
 
 ```bash
 # Clone the repository
-git clone https://github.com/hackerhex/hex-forge.git
+git clone https://github.com/BluHExH/GitHub-Profile-Builder-Platform-.git
 
 # Navigate to the project directory
-cd hex-forge
+cd GitHub-Profile-Builder-Platform-
 
 # Install dependencies
 npm install
@@ -433,13 +436,6 @@ Copy `.env.example` to `.env.local`. All variables are **optional** — HEX Forg
 > **Note:** Without `VITE_AI_API_URL`/`VITE_AI_API_KEY`, AI generation features will show a configuration prompt. All other features (Badge Studio, Markdown Editor, Template Marketplace, Export Center, Team Members, Settings) function fully without AI configuration. Repository Analyzer uses the public GitHub API directly.
 
 ---
-
-
----
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="60%" alt="Divider"/>
-</p>
 
 ## 🎯 Usage
 
@@ -784,24 +780,6 @@ Open an issue on GitHub or reach out via the contact links below. Feature reques
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="60%" alt="Divider"/>
 </p>
 
-
-
-### Development Guidelines
-
-| Area | Guideline |
-|---|---|
-| **Code Style** | Follow existing patterns — no comments unless absolutely necessary |
-| **Components** | Use shadcn/ui primitives where possible; prefer composition over inheritance |
-| **State** | Use local state + hooks; no global state library |
-| **Styling** | Use Tailwind CSS utility classes; custom CSS only for complex animations |
-| **TypeScript** | Strict mode; avoid `any`; prefer `interface` over `type` for objects |
-| **AI Features** | Use `useAIGenerator` hook for streaming generation; handle rate limits |
-| **Persistence** | Use `src/lib/local-storage.ts` utility for localStorage operations |
-| **Commits** | Clear, concise commit messages following conventional commits |
-| **PRs** | One feature per PR; include description and screenshots for UI changes |
-
----
-
 ## 📄 License
 
 <p align="center">
@@ -810,112 +788,24 @@ Open an issue on GitHub or reach out via the contact links below. Feature reques
 
 This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
 
-```
-MIT License
-
-Copyright (c) 2026 HEX Forge (Hacker Hex)
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions...
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND...
-```
-
----
-
-## 🆘 Support
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Issues-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Discussions-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</p>
-
-- **📖 Documentation** — See the `docs/` directory and this README
-- **🐛 Bug Reports** — Open an issue on GitHub
-- **💡 Feature Requests** — Open a discussion or issue
-- **❓ Questions** — Check the FAQ above first, then open a discussion
-
 ---
 
 ## 📬 Contact
 
 <p align="center">
-  <b>HEX Forge</b> by <b>Hacker Hex</b>
+  <b>HEX Forge</b> by <b>BluHExH</b>
 </p>
 
 <p align="center">
   <a href="https://github.com/BluHExH">
-    <img src="https://img.shields.io/badge/GitHub-hackerhex-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="mailto:cyber17official.bd@gmail.com">
-    <img src="https://img.shields.io/badge/Email-hello@hexforge.dev-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-BluHExH-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-## 👏 Credits
-
-Built with ❤️ by the open source community.
-
-| Resource | Credit |
-|---|---|
-| **Icons** | [Lucide](https://lucide.dev) & [Radix Icons](https://radix-ui.com/icons) |
-| **Badges** | [shields.io](https://shields.io) |
-| **UI Components** | [shadcn/ui](https://ui.shadcn.com) & [Radix UI](https://radix-ui.com) |
-| **Markdown Rendering** | [Streamdown](https://github.com/juliusmarminge/streamdown), [react-markdown](https://github.com/remarkjs/react-markdown) |
-| **Charts** | [Recharts](https://recharts.org) |
-| **Animations** | [Motion](https://motion.dev) (Framer Motion) |
-| **GIF Assets** | [GitHub Profile README GIFs](https://github.com/rzashakeri/beautify-github-profile) |
-| **GitHub Stats Widgets** | [github-readme-stats](https://github.com/anuraghazra/github-readme-stats), [streak-stats](https://git.io/streak-stats), [activity-graph](https://github.com/ashutosh00710/github-readme-activity-graph), [trophies](https://github.com/ryo-ma/github-profile-trophy) |
-
----
-
-## 🙏 Acknowledgements
-
-- The open source community for inspiration and tools
-- [Vercel](https://vercel.com) for the deployment platform
-- [Netlify](https://netlify.com) for continuous deployment
-- [Google Gemini](https://deepmind.google/technologies/gemini/) for AI capabilities
-- [shadcn](https://twitter.com/shadcn) for the beautiful component library
-- All contributors and users who make this project better
-
----
-
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="70%" alt="Final Divider"/>
-</p>
-
-## 📊 Statistics
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Version-1.0.0-FF5A00?style=for-the-badge&logo=semver&logoColor=white"/>
-  <img src="https://img.shields.io/badge/License-MIT-00D9FF?style=for-the-badge&logo=opensourceinitiative&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-5.6-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vite-6-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-3-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AI_Powered-Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Open_Source-❤️-FF6E96?style=for-the-badge&logo=opensourceinitiative&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Maintained-Yes-00C853?style=for-the-badge&logo=githubactions&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Responsive-Yes-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PRs-Welcome-FF6E96?style=for-the-badge&logo=githubactions&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vercel-Ready-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Netlify-Ready-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
-  <img src="https://img.shields.io/badge/No_Account_Required-Yes-FF5A00?style=for-the-badge&logo=shield&logoColor=white"/>
-</p>
-
-<br/>
-
-<p align="center">
-  <sub>Built with 🔥 by <a href="https://github.com/hackerhex">Hacker Hex</a></sub>
+  <sub>Built with 🔥 by <a href="https://github.com/BluHExH">BluHExH</a></sub>
   <br/>
   <sub>© 2026 HEX Forge — MIT License</sub>
 </p>
